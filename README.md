@@ -21,3 +21,6 @@ vi .gitconfig
        st = status
 
 然後就會有一堆快捷鍵可以用
+
+yourname
+
